@@ -12,7 +12,7 @@ Les services propulsés par le gouvernement sont marqués d’une étoile (*).
 - [Sécurite et Signalements aux Autorités](#-Sécurite-et-Signalements-aux-Autorités)
 - [Fraudes et Arnaques](#-Fraudes-et-Arnaques)
 - [Voyages et Sécurité Routière](#-Voyages-et-Sécurité-Routière)
-- [Autres Services Publiques](#-Autres Services-Publiques)
+- [Autres Services à Utilité Publique](#-Autres-Services-à-Utilité-Publique)
 
 ## [↑](#table-of-contents) Contribution
 Si vous souhaitez ajouter d'autres outils ou si vous avez des suggestions pour améliorer ce projet, vous pouvez me contacter [ici](https://www.linkedin.com/in/khalilb/).
@@ -61,7 +61,7 @@ _Plateformes pour signaler, prévenir et obtenir de l'aide en cas d'incident._
 - [Ariane*](https://www.service-public.fr/particuliers/vosdroits/R18974) - Signaler un voyage à l’étranger pour être alerté en cas de crise.  
 - [SOS Autoroute*](https://apps.apple.com/fr/app/sos-autoroute/id427180986) - Appel d’urgence sur les autoroutes en France.  
 
-### [↑](#table-of-contents) Autres Services Utilité Publique
+### [↑](#table-of-contents) Autres Services à Utilité Publique
 - [Cambriolage*](https://www.service-public.fr/particuliers/vosdroits/F34634) - Bénéficier du dispositif Opération Tranquillité Vacances.  
 - [Harcèlement Scolaire](https://apps.apple.com/fr/app/3018/id1602242493) - Signaler un harcèlement scolaire (appeler le 3020).  
 - [Vigilance Météo](https://meteoalarm.org/fr/live/) - Consulter les alertes météo en Europe.  
