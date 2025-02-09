@@ -15,7 +15,7 @@ Les services propulsés par le gouvernement sont marqués d’une étoile (*).
 - [Autres Services Publiques](#-Autres Services-Publiques)
 
 ## [↑](#table-of-contents) Contribution
-Si vous souhaitez ajouter d'autres outils ou si vous avez des suggestions pour améliorer ce projet, vous pouvez me contacter ici.
+Si vous souhaitez ajouter d'autres outils ou si vous avez des suggestions pour améliorer ce projet, vous pouvez me contacter [ici](https://www.linkedin.com/in/khalilb/).
 
 PS. J'ai encore besoin de travailler sur un processus de contribution approprié dans github. Merci de me laisser un peu de temps :cowboy_hat_face:.
 
