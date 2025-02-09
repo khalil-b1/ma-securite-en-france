@@ -1,4 +1,4 @@
-# France : Ma Sécurité & Cybersécurité [![Powered by Badge](https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)](https://github.com/khalil-b1/goosint/tree/main)
+# France : Ma Sécurité & Cybersécurité [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](https://github.com/khalil-b1/goosint/tree/main)
 Tous les liens utiles pour les signalements sur Internet, votre Sécurité et Cybersécurité en France 🇫🇷.
 
 Cette page a pour but de regrouper des liens et ressources utiles pour votre sécurité et cybersécurité sur le sol et dans le cyber espace français.
